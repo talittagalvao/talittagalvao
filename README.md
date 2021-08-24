@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **talittagalvao/talittagalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+🇧🇷![image](https://user-images.githubusercontent.com/55842934/130632981-459153ca-5aee-4dbe-aa9b-3176fe521b7f.png)
+
+
