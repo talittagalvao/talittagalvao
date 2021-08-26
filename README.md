@@ -1,5 +1,16 @@
 ## Olá, eu sou Talitta! 
 
+Eu sou estudante de ciências da computação e recém formada em engenharia civil. 
+
+As linguagens que pratiquei até agora são Java e C.
+
+Atualmente estou estudando sobre .NET e RPA (Robotic Process Automation).
+
+Aposto que vamos trocar muito conhecimento! 
+
+
+##
+
  <div>
   <a href="https://github.com/talittagalvao">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=talittagalvao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,6 +24,5 @@
   <a href = "mailto:oliveira.talitta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/talitta-galv%C3%A3o-00576b9b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/talittagalvao/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
